@@ -1,0 +1,7 @@
+node_modules/
+dist/
+build/
+.apify_storage/
+apify_storage/
+*.log
+.env
